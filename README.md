@@ -22,3 +22,16 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=imxzone&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+# 💻 Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imxzone&limit=5&theme=panda&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=imxzone&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
