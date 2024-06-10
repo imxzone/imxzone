@@ -3,7 +3,7 @@
 
 👨🏻‍🎓 Graduated with a Artificial Intelligence degree from FPT University, Ho Chi Minh City, Vietnam <br/>
 
-🎨 Making videos about AI, machine learning, and data science on ([YouTube] https://www.youtube.com/@imxzone) <br/>
+🎨 Making videos about AI, machine learning, and data science on [YouTube] (https://www.youtube.com/@imxzone) <br/>
 
 🧠 learninginpublic within the #9.5AI community in my Crew 9.5AI <br/>
 
