@@ -1,3 +1,13 @@
+# 👋 Hi, I'm Phan Lộc!
+👨🏻‍💻 AI Engineer sharing my journey and learnings in the field of artificial intelligence <br/>
+
+👨🏻‍🎓 Graduated with a Artificial Intelligence degree from FPT University, Ho Chi Minh City, Vietnam <br/>
+
+🎨 Making videos about AI, machine learning, and data science on ([YouTube] https://www.youtube.com/@imxzone) <br/>
+
+🧠 learninginpublic within the #9.5AI community in my Crew 9.5AI <br/>
+
+💭 Currently diving deep into natural language processing and computer vision! <br/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zone2k1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/imxzone/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCu91F7AlCj-etY9zchesy7g) 
@@ -14,5 +24,3 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=imxzone&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=imxzone&icon=1&color=2)](https://visitcount.itsvg.in)
