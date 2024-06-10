@@ -35,31 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=imxzone&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imxzone&limit=5&theme=panda&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=imxzone&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imxzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imxzone&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imxzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imxzone&limit=5&theme=panda&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=imxzone&icon=1&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
