@@ -15,11 +15,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zone2k1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/imxzone/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCu91F7AlCj-etY9zchesy7g) 
 
 # 💻Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 <br/>
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) 
