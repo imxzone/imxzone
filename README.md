@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=imxzone&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/imxzone/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCu91F7AlCj-etY9zchesy7g) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCu91F7AlCj-etY9zchesy7g) 
 
 # 💻Languages and Tools
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
