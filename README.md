@@ -5,7 +5,7 @@
 
 🎨 Making videos about AI, machine learning, and data science on [YouTube](https://www.youtube.com/@imxzone) <br/>
 
-🧠 learninginpublic within the #9.5AI community in my Crew 9.5AI <br/>
+🧠 learninginpublic within the #9.5AI community in my [Crew 9.5AI](https://www.facebook.com/9.5AIFPTUHCM) <br/>
 
 💭 Currently diving deep into natural language processing and computer vision! <br/>
 
